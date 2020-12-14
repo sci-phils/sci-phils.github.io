@@ -1,9 +1,9 @@
 _site
-.DS_Store
-.jekyll
-.jekyll-metadata
-.jekyll-cache
-.bundle
 .sass-cache
-node_modules
-package.json
+.DS_Store
+.jekyll-metadata
+
+# Ignore the config file that's used for gh-pages.
+_config.gh-pages.yml
+
+Gemfile.lock
