@@ -52,6 +52,10 @@ $darken-2: rgba(#000,.125) !default;
 $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
 
+// Custom Colors
+$logo-color: #2a9d8f !default;
+$text-color: #264653 !default;
+
 // Links
 $link-color: $blue;
 $link-hover-color: darken($blue, 40%);
